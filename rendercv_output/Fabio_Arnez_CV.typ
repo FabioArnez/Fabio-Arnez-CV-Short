@@ -480,9 +480,9 @@
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Research on DNN\/LLM confidence representation \(uncertainty estimation\) for out-of-distribution\/hallucination detection, runtime monitoring in complex computer vision tasks \(#link("https://fabioarnez.github.io/LaREx-website/")[demo object detection]\), embedded uncertainty estimation, and AI safety.])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Research on DNN\/LLM confidence representation \(uncertainty estimation\) for out-of-distribution\/hallucination detection, runtime monitoring in complex computer vision tasks \(#link("https://fabioarnez.github.io/LaREx-website/")[demo object detection]\), embedded uncertainty estimation, and AI Safety.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Trustworthy Deep Learning Team #strong[leader], Ph.D. Theses and Interships supervison],[On-going contribution to the #strong[PRIMaL] \(Carnot project\)],[On-going contribution #link("https://deepgreen.ai/")[#strong[DeepGreen]] Project for embedded AI, \(France 2030 program\)],[Contributed to the #link("https://www.confiance.ai/")[#strong[Confiance.ai]] program, \(France 2030 program\). OoD detection method #link("https://catalog.confiance.ai/records/vtkgc-x6d75")[library].],[Contributed to the #link("https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations")[#strong[Comp4Drones]] project \(H2020 Program European Union\). WP4-Task4.4 Runtime Monitoring leader and contributor],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Trustworthy Deep Learning Team #strong[leader], Ph.D. Theses and Interships supervison],[On-going contribution to the #strong[PRIMaL] \(Carnot project\)],[On-going contribution #link("https://deepgreen.ai/")[#strong[DeepGreen]] Project for embedded AI, \(France 2030 program\)],[Contributed to the #link("https://www.confiance.ai/")[#strong[Confiance.ai]] program, \(France 2030 program\). OoD detection method #link("https://catalog.confiance.ai/records/vtkgc-x6d75")[library]],[Contributed to the #link("https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations")[#strong[Comp4Drones]] project \(H2020 Program European Union\). WP4-Task4.4 Runtime Monitoring leader and contributor],)
   ],
 )
 
@@ -669,7 +669,7 @@
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Robotics:] ROS\/ROS 2; PyBullet, CARLA, and AirSim simulators; Gymnasium; PX4\/Pixhawk autopilot]
+  content: [#strong[Robotics:] ROS\/ROS 2; PyBullet, MuJoCo, CARLA, and AirSim simulators; Gymnasium; PX4\/Pixhawk autopilot]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -685,7 +685,7 @@
 
 
 #one-col-entry(
-  content: [- Hajji, E., Bouguerra, A., #strong[Arnez, F.] \(2025, August\). #emph[The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns]. \(Accepted at ATRACC-AAAI FSS 2025 – to be presented soon\)],
+  content: [- Hajji, E., Bouguerra, A., #strong[Arnez, F.] \(2025, November\). #emph[The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns]. In AAAI Fall Symposium Series 2025 - ATRACC.],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(

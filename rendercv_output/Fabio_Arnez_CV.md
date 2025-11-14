@@ -18,7 +18,7 @@
 - Trustworthy Deep Learning Team **leader**, Ph.D. Theses and Interships supervison
 - On-going contribution to the **PRIMaL** (Carnot project)
 - On-going contribution [**DeepGreen**](https://deepgreen.ai/) Project for embedded AI, (France 2030 program)
-- Contributed to the [**Confiance.ai**](https://www.confiance.ai/) program, (France 2030 program). OoD detection method [library](https://catalog.confiance.ai/records/vtkgc-x6d75).
+- Contributed to the [**Confiance.ai**](https://www.confiance.ai/) program, (France 2030 program). OoD detection method [library](https://catalog.confiance.ai/records/vtkgc-x6d75)
 - Contributed to the [**Comp4Drones**](https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations) project (H2020 Program European Union). WP4-Task4.4 Runtime Monitoring leader and contributor
 
 ## Bamboo, Data Scientist
@@ -72,12 +72,12 @@
 
 - Programming: Python (Numpy, Scipy, Matplotlib, Pandas, Seaborn...), C/C++; PyQt5 for GUI dev;  Git
 - Machine Learning & Deep Learning: PyTorch, PyTorch-Lightning, Hydra, MLFlow, Slurm HPC, scikit-learn
-- Robotics: ROS/ROS 2; PyBullet, CARLA, and AirSim simulators; Gymnasium; PX4/Pixhawk autopilot
+- Robotics: ROS/ROS 2; PyBullet, MuJoCo, CARLA, and AirSim simulators; Gymnasium; PX4/Pixhawk autopilot
 - Embedded Systems: ST/SiliconLabs/NXP ARM Cortex (M0+, M3, M4), FreeRTOS
 - Languages: English (fluent, C1/C2), French (basic-intermediate, B1), Italian (basic), Spanish (native)
 # Publications
 
-- Hajji, E., Bouguerra, A., **Arnez, F.** (2025, August). *The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns*. (Accepted at ATRACC-AAAI FSS 2025 – to be presented soon)
+- Hajji, E., Bouguerra, A., **Arnez, F.** (2025, November). *The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns*. In AAAI Fall Symposium Series 2025 - ATRACC.
 - Bouguerra, A., Montoya, D., Gomez-Villa, A., **Arnez, F.**, Mraidha, C. (2025, August). *Can Less Precise Be More Reliable? A Systematic Evaluation of Quantization’s Impact on CLIP Beyond Accuracy*. (Under review) [link](https://arxiv.org/abs/2509.21173)
 - Montoya, D., Bouguerra, A., Gomez-Villa, A., & **Arnez, F**. (2025). *FindMeIfYouCan: Bringing Open Set Metrics to Near, Far  and Farther Out-of-Distribution Object Detection*. arXiv preprint arXiv:2506.14008. (Under review) [link](https://arxiv.org/abs/2506.14008)
 - Rajendran, P. T., **Arnez, F.**, Espinoza, H., Delaborde, A., Mraidha, C. *Oracle-Guided Soft Shielding for Safe Move Prediction in Chess.*, 2025. (Accepted at 24th ICMLA - to be presented soon)

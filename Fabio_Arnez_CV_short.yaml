@@ -20,12 +20,12 @@ cv:
         start_date: 2019-10
         end_date: 
         location: Palaiseau, France
-        summary: Research on DNN/LLM confidence representation (uncertainty estimation) for out-of-distribution/hallucination detection, runtime monitoring in complex computer vision tasks ([demo object detection](https://fabioarnez.github.io/LaREx-website/)), embedded uncertainty estimation, and AI safety.
+        summary: Research on DNN/LLM confidence representation (uncertainty estimation) for out-of-distribution/hallucination detection, runtime monitoring in complex computer vision tasks ([demo object detection](https://fabioarnez.github.io/LaREx-website/)), embedded uncertainty estimation, and AI Safety.
         highlights:
           - Trustworthy Deep Learning Team **leader**, Ph.D. Theses and Interships supervison
           - On-going contribution to the **PRIMaL** (Carnot project)
           - On-going contribution [**DeepGreen**](https://deepgreen.ai/) Project for embedded AI, (France 2030 program)
-          - Contributed to the [**Confiance.ai**](https://www.confiance.ai/) program, (France 2030 program). OoD detection method [library](https://catalog.confiance.ai/records/vtkgc-x6d75).
+          - Contributed to the [**Confiance.ai**](https://www.confiance.ai/) program, (France 2030 program). OoD detection method [library](https://catalog.confiance.ai/records/vtkgc-x6d75)
           - Contributed to the [**Comp4Drones**](https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations) project (H2020 Program European Union). WP4-Task4.4 Runtime Monitoring leader and contributor
       - company: Bamboo
         position: Data Scientist
@@ -103,13 +103,13 @@ cv:
       - label: Machine Learning & Deep Learning
         details: PyTorch, PyTorch-Lightning, Hydra, MLFlow, Slurm HPC, scikit-learn
       - label: Robotics
-        details: ROS/ROS 2; PyBullet, CARLA, and AirSim simulators; Gymnasium; PX4/Pixhawk autopilot
+        details: ROS/ROS 2; PyBullet, MuJoCo, CARLA, and AirSim simulators; Gymnasium; PX4/Pixhawk autopilot
       - label: Embedded Systems
         details: ST/SiliconLabs/NXP ARM Cortex (M0+, M3, M4), FreeRTOS
       - label: Languages
         details: 'English (fluent, C1/C2), French (basic-intermediate, B1), Italian (basic), Spanish (native)'
     Publications:
-      - bullet: "Hajji, E., Bouguerra, A., **Arnez, F.** (2025, August). *The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns*. (Accepted at ATRACC-AAAI FSS 2025 – to be presented soon)"
+      - bullet: "Hajji, E., Bouguerra, A., **Arnez, F.** (2025, November). *The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns*. In AAAI Fall Symposium Series 2025 - ATRACC."
       - bullet: "Bouguerra, A., Montoya, D., Gomez-Villa, A., **Arnez, F.**, Mraidha, C. (2025, August). *Can Less Precise Be More Reliable? A Systematic Evaluation of Quantization’s Impact on CLIP Beyond Accuracy*. (Under review) [link](https://arxiv.org/abs/2509.21173)"
       - bullet: "Montoya, D., Bouguerra, A., Gomez-Villa, A., & **Arnez, F**. (2025). *FindMeIfYouCan: Bringing Open Set Metrics to Near, Far  and Farther Out-of-Distribution Object Detection*. arXiv preprint arXiv:2506.14008. (Under review) [link](https://arxiv.org/abs/2506.14008)"
       - bullet: "Rajendran, P. T., **Arnez, F.**, Espinoza, H., Delaborde, A., Mraidha, C. *Oracle-Guided Soft Shielding for Safe Move Prediction in Chess.*, 2025. (Accepted at 24th ICMLA - to be presented soon)"
