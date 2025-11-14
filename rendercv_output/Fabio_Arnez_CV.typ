@@ -480,7 +480,7 @@
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Research on DNN\/LLM confidence representation \(uncertainty estimation\) for out-of-distribution\/hallucination detection, runtime monitoring in complex computer vision tasks \(#link("https://fabioarnez.github.io/LaREx-website/")[demo object detection]\), embedded uncertainty estimation, and AI Safety.])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Research on DNNs\/LLMs\/VLMs confidence representation \(uncertainty estimation\) for out-of-distribution\/hallucination detection, runtime monitoring in complex computer vision tasks \(#link("https://fabioarnez.github.io/LaREx-website/")[demo object detection]\), embedded uncertainty estimation, and AI Safety.])], column-gutter: 0cm)
 
 #v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Trustworthy Deep Learning Team #strong[leader], Ph.D. Theses and Interships supervison],[On-going contribution to the #strong[PRIMaL] \(Carnot project\)],[On-going contribution #link("https://deepgreen.ai/")[#strong[DeepGreen]] Project for embedded AI, \(France 2030 program\)],[Contributed to the #link("https://www.confiance.ai/")[#strong[Confiance.ai]] program, \(France 2030 program\). OoD detection method #link("https://catalog.confiance.ai/records/vtkgc-x6d75")[library]],[Contributed to the #link("https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations")[#strong[Comp4Drones]] project \(H2020 Program European Union\). WP4-Task4.4 Runtime Monitoring leader and contributor],)
   ],
@@ -693,7 +693,7 @@
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- Montoya, D., Bouguerra, A., Gomez-Villa, A., & #strong[Arnez, F]. \(2025\). #emph[FindMeIfYouCan: Bringing Open Set Metrics to Near, Far  and Farther Out-of-Distribution Object Detection]. arXiv preprint arXiv:2506.14008. \(Under review\) #link("https://arxiv.org/abs/2506.14008")[link]],
+  content: [- Montoya, D., Bouguerra, A., Gomez-Villa, A., & #strong[Arnez, F]. \(2025, June\). #emph[FindMeIfYouCan: Bringing Open Set Metrics to Near, Far  and Farther Out-of-Distribution Object Detection]. arXiv preprint arXiv:2506.14008. \(Under review\) #link("https://arxiv.org/abs/2506.14008")[link]],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(

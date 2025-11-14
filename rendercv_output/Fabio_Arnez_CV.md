@@ -79,7 +79,7 @@
 
 - Hajji, E., Bouguerra, A., **Arnez, F.** (2025, November). *The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns*. In AAAI Fall Symposium Series 2025 - ATRACC.
 - Bouguerra, A., Montoya, D., Gomez-Villa, A., **Arnez, F.**, Mraidha, C. (2025, August). *Can Less Precise Be More Reliable? A Systematic Evaluation of Quantization’s Impact on CLIP Beyond Accuracy*. (Under review) [link](https://arxiv.org/abs/2509.21173)
-- Montoya, D., Bouguerra, A., Gomez-Villa, A., & **Arnez, F**. (2025). *FindMeIfYouCan: Bringing Open Set Metrics to Near, Far  and Farther Out-of-Distribution Object Detection*. arXiv preprint arXiv:2506.14008. (Under review) [link](https://arxiv.org/abs/2506.14008)
+- Montoya, D., Bouguerra, A., Gomez-Villa, A., & **Arnez, F**. (2025, June). *FindMeIfYouCan: Bringing Open Set Metrics to Near, Far  and Farther Out-of-Distribution Object Detection*. arXiv preprint arXiv:2506.14008. (Under review) [link](https://arxiv.org/abs/2506.14008)
 - Rajendran, P. T., **Arnez, F.**, Espinoza, H., Delaborde, A., Mraidha, C. *Oracle-Guided Soft Shielding for Safe Move Prediction in Chess.*, 2025. (Accepted at 24th ICMLA - to be presented soon)
 - **Arnez, F.**, Vasquez, D. A. M., Radermacher, A., & Terrier, F. (2024, July). *Latent Representation Entropy Density for Distribution Shift Detection*. In Conference on Uncertainty in Artificial Intelligence (UAI). [link](https://proceedings.mlr.press/v244/arnez24a.html)
 - **Arnez, F.** (2023). *Deep Neural Network Uncertainty Runtime Monitoring for Robust and Safe AI-based Automated Navigation* (Doctoral dissertation, Université Paris-Saclay). [link](https://theses.hal.science/tel-04672736/)
