@@ -503,7 +503,7 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Enterprise data analysis, data visualization \(dashboards\)])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Engineering team #strong[leader]],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Engineering team #strong[leader]. Implemented dashboards with PowerBI to support enterprise decision-making],)
   ],
 )
 

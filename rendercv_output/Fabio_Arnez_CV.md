@@ -25,7 +25,7 @@
 
 - Apr 2019 – Oct 2019
 - Cochabamba, Bolivia
-- Engineering team **leader**
+- Engineering team **leader**. Implemented dashboards with PowerBI to support enterprise decision-making
 
 ## University of Applied Arts and Science from Southern Switzerland (SUPSI), ISEA, SMT Lab, Research Assistant
 
