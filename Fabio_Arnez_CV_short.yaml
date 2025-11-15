@@ -20,13 +20,13 @@ cv:
         start_date: 2019-10
         end_date: 
         location: Palaiseau, France
-        summary: Research on DNNs/LLMs/VLMs confidence representation (uncertainty estimation) for out-of-distribution/hallucination detection, runtime monitoring in complex computer vision tasks ([demo object detection](https://fabioarnez.github.io/LaREx-website/)), embedded uncertainty estimation, and AI Safety.
+        summary: Research on DNNs/LLMs/VLMs confidence representation (uncertainty estimation) for out-of-distribution/hallucination detection, runtime monitoring in complex computer vision tasks ([demo object detection](https://fabioarnez.github.io/LaREx-website/)), embedded uncertainty estimation, safe and robust end-to-end DNN-based [UAV navigation](https://fabioarnez.github.io/blog/2025/UQ-BDL-UAV-System/), and AI Safety.
         highlights:
-          - Trustworthy Deep Learning Team **leader**, Ph.D. Theses and Interships supervison
-          - On-going contribution to the **PRIMaL** (Carnot project)
-          - On-going contribution [**DeepGreen**](https://deepgreen.ai/) Project for embedded AI, (France 2030 program)
-          - Contributed to the [**Confiance.ai**](https://www.confiance.ai/) program, (France 2030 program). OoD detection method [library](https://catalog.confiance.ai/records/vtkgc-x6d75)
-          - Contributed to the [**Comp4Drones**](https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations) project (H2020 Program European Union). WP4-Task4.4 Runtime Monitoring leader and contributor
+          - Trustworthy Deep Learning Team leader, Ph.D. Theses and Interships supervison
+          - Contributing to the **PRIMaL**- Developed LLM hallucination detection and OoD object detection methods
+          - Contributing to the [**DeepGreen**](https://deepgreen.ai/) Project for embedded AI, (France 2030 program)-Embedded DNN uncertainty estimation, developed dropout operator for the [Aidge](https://gitlab.eclipse.org/eclipse/aidge/aidge) library
+          - Contributed to the [**Confiance.ai**](https://www.confiance.ai/) program, (France 2030 program). Developed an OoD detection method [library](https://catalog.confiance.ai/records/vtkgc-x6d75)
+          - Contributed to the [**Comp4Drones**](https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations) project (H2020 Program European Union). Led WP4-Task4.4 on UAV Runtime Monitoring. Developed a distributed uncertainty runtime monitoring system for DNN-based UAV navigation systems 
       - company: Bamboo
         position: Data Scientist
         date:
@@ -44,8 +44,8 @@ cv:
         location: Lugano, Switzerland
         summary: Part-time embbeded systems development
         highlights:
-          - Signal processing, embedded machine learning for signal classification
-          - Embedded systems prototyping for wireless IoT applications (802.15.4, Bluetooth)
+          - Applied signal processing, embedded machine learning for signal classification
+          - Developed and implemented embedded systems prototyping for wireless IoT applications (802.15.4, Bluetooth)
       - company: Jalasoft
         position: Unmanned Aerial Systems Researcher
         date:
@@ -54,8 +54,8 @@ cv:
         location: Cochabamba, Bolivia
         summary: Localization & navigation, ROS integration, embedded systems integration, computer vision tasks
         highlights:
-          - Custom UAV building from scratch employing the PX4/Pixhawk autopilot
-          - Computer vision tasks with an onboard computer in the UAV
+          - Built a custom UAV from scratch employing the PX4/Pixhawk autopilot
+          - Implemented computer vision tasks with an onboard computer in the UAV
       - company: Universidad Privada Boliviana (UPB)
         position: Adjunct Researcher and Lecturer
         date:
@@ -200,6 +200,6 @@ locale:
     - November
     - December
 rendercv_settings:
-  date: '2025-11-14'
+  date: '2025-11-15'
   render_command:
   bold_keywords: []

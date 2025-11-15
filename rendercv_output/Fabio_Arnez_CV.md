@@ -15,11 +15,11 @@
 
 - Oct 2019 – present
 - Palaiseau, France
-- Trustworthy Deep Learning Team **leader**, Ph.D. Theses and Interships supervison
-- On-going contribution to the **PRIMaL** (Carnot project)
-- On-going contribution [**DeepGreen**](https://deepgreen.ai/) Project for embedded AI, (France 2030 program)
-- Contributed to the [**Confiance.ai**](https://www.confiance.ai/) program, (France 2030 program). OoD detection method [library](https://catalog.confiance.ai/records/vtkgc-x6d75)
-- Contributed to the [**Comp4Drones**](https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations) project (H2020 Program European Union). WP4-Task4.4 Runtime Monitoring leader and contributor
+- Trustworthy Deep Learning Team leader, Ph.D. Theses and Interships supervison
+- Contributing to the **PRIMaL**- Developed LLM hallucination detection and OoD object detection methods
+- Contributing to the [**DeepGreen**](https://deepgreen.ai/) Project for embedded AI, (France 2030 program)-Embedded DNN uncertainty estimation, developed dropout operator for the [Aidge](https://gitlab.eclipse.org/eclipse/aidge/aidge) library
+- Contributed to the [**Confiance.ai**](https://www.confiance.ai/) program, (France 2030 program). Developed an OoD detection method [library](https://catalog.confiance.ai/records/vtkgc-x6d75)
+- Contributed to the [**Comp4Drones**](https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations) project (H2020 Program European Union). Led WP4-Task4.4 on UAV Runtime Monitoring. Developed a distributed uncertainty runtime monitoring system for DNN-based UAV navigation systems
 
 ## Bamboo, Data Scientist
 
@@ -31,15 +31,15 @@
 
 - Sept 2016 – Aug 2018
 - Lugano, Switzerland
-- Signal processing, embedded machine learning for signal classification
-- Embedded systems prototyping for wireless IoT applications (802.15.4, Bluetooth)
+- Applied signal processing, embedded machine learning for signal classification
+- Developed and implemented embedded systems prototyping for wireless IoT applications (802.15.4, Bluetooth)
 
 ## Jalasoft, Unmanned Aerial Systems Researcher
 
 - May 2014 – May 2016
 - Cochabamba, Bolivia
-- Custom UAV building from scratch employing the PX4/Pixhawk autopilot
-- Computer vision tasks with an onboard computer in the UAV
+- Built a custom UAV from scratch employing the PX4/Pixhawk autopilot
+- Implemented computer vision tasks with an onboard computer in the UAV
 
 ## Universidad Privada Boliviana (UPB), Adjunct Researcher and Lecturer
 

@@ -480,9 +480,9 @@
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Research on DNNs\/LLMs\/VLMs confidence representation \(uncertainty estimation\) for out-of-distribution\/hallucination detection, runtime monitoring in complex computer vision tasks \(#link("https://fabioarnez.github.io/LaREx-website/")[demo object detection]\), embedded uncertainty estimation, and AI Safety.])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Research on DNNs\/LLMs\/VLMs confidence representation \(uncertainty estimation\) for out-of-distribution\/hallucination detection, runtime monitoring in complex computer vision tasks \(#link("https://fabioarnez.github.io/LaREx-website/")[demo object detection]\), embedded uncertainty estimation, safe and robust end-to-end DNN-based #link("https://fabioarnez.github.io/blog/2025/UQ-BDL-UAV-System/")[UAV navigation], and AI Safety.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Trustworthy Deep Learning Team #strong[leader], Ph.D. Theses and Interships supervison],[On-going contribution to the #strong[PRIMaL] \(Carnot project\)],[On-going contribution #link("https://deepgreen.ai/")[#strong[DeepGreen]] Project for embedded AI, \(France 2030 program\)],[Contributed to the #link("https://www.confiance.ai/")[#strong[Confiance.ai]] program, \(France 2030 program\). OoD detection method #link("https://catalog.confiance.ai/records/vtkgc-x6d75")[library]],[Contributed to the #link("https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations")[#strong[Comp4Drones]] project \(H2020 Program European Union\). WP4-Task4.4 Runtime Monitoring leader and contributor],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Trustworthy Deep Learning Team leader, Ph.D. Theses and Interships supervison],[Contributing to the #strong[PRIMaL]- Developed LLM hallucination detection and OoD object detection methods],[Contributing to the #link("https://deepgreen.ai/")[#strong[DeepGreen]] Project for embedded AI, \(France 2030 program\)-Embedded DNN uncertainty estimation, developed dropout operator for the #link("https://gitlab.eclipse.org/eclipse/aidge/aidge")[Aidge] library],[Contributed to the #link("https://www.confiance.ai/")[#strong[Confiance.ai]] program, \(France 2030 program\). Developed an OoD detection method #link("https://catalog.confiance.ai/records/vtkgc-x6d75")[library]],[Contributed to the #link("https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations")[#strong[Comp4Drones]] project \(H2020 Program European Union\). Led WP4-Task4.4 on UAV Runtime Monitoring. Developed a distributed uncertainty runtime monitoring system for DNN-based UAV navigation systems],)
   ],
 )
 
@@ -524,7 +524,7 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Part-time embbeded systems development])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Signal processing, embedded machine learning for signal classification],[Embedded systems prototyping for wireless IoT applications \(802.15.4, Bluetooth\)],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Applied signal processing, embedded machine learning for signal classification],[Developed and implemented embedded systems prototyping for wireless IoT applications \(802.15.4, Bluetooth\)],)
   ],
 )
 
@@ -545,7 +545,7 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Localization & navigation, ROS integration, embedded systems integration, computer vision tasks])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Custom UAV building from scratch employing the PX4\/Pixhawk autopilot],[Computer vision tasks with an onboard computer in the UAV],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Built a custom UAV from scratch employing the PX4\/Pixhawk autopilot],[Implemented computer vision tasks with an onboard computer in the UAV],)
   ],
 )
 
