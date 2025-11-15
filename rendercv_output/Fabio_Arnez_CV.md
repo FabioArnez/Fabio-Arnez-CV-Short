@@ -16,10 +16,10 @@
 - Oct 2019 – present
 - Palaiseau, France
 - Trustworthy Deep Learning Team leader, Ph.D. Theses and Interships supervison
-- Contributing to the **PRIMaL**- Developed LLM hallucination detection and OoD object detection methods
-- Contributing to the [**DeepGreen**](https://deepgreen.ai/) Project for embedded AI, (France 2030 program)-Embedded DNN uncertainty estimation, developed dropout operator for the [Aidge](https://gitlab.eclipse.org/eclipse/aidge/aidge) library
-- Contributed to the [**Confiance.ai**](https://www.confiance.ai/) program, (France 2030 program). Developed an OoD detection method [library](https://catalog.confiance.ai/records/vtkgc-x6d75)
-- Contributed to the [**Comp4Drones**](https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations) project (H2020 Program European Union). Led WP4-Task4.4 on UAV Runtime Monitoring. Developed a distributed uncertainty runtime monitoring system for DNN-based UAV navigation systems
+- Contributing to the PRIMaL project: Developed LLM hallucination detection and OoD object detection methods
+- Contributing to the [DeepGreen](https://deepgreen.ai/) project for embedded AI, (France 2030 program): Developed dropout operator for the [Aidge](https://gitlab.eclipse.org/eclipse/aidge/aidge) library for embedded DNN uncertainty estimation, studied the reliability & robustness of quantized CLIP
+- Contributed to the [Confiance.ai](https://www.confiance.ai/) program, (France 2030 program): Developed an OoD detection method [library](https://catalog.confiance.ai/records/vtkgc-x6d75)
+- Contributed to the [Comp4Drones](https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations) project (H2020 Program European Union): Led WP4-Task4.4 on UAV Runtime Monitoring, developed a distributed uncertainty runtime monitoring system for DNN-based UAV navigation systems
 
 ## Bamboo, Data Scientist
 
@@ -32,7 +32,7 @@
 - Sept 2016 – Aug 2018
 - Lugano, Switzerland
 - Applied signal processing, embedded machine learning for signal classification
-- Developed and implemented embedded systems prototyping for wireless IoT applications (802.15.4, Bluetooth)
+- Developed and implemented embedded system prototypes for wireless IoT applications (802.15.4, Bluetooth)
 
 ## Jalasoft, Unmanned Aerial Systems Researcher
 
@@ -45,7 +45,7 @@
 
 - Sept 2014 – Mar 2019
 - Cochabamba, Bolivia
-- Smart Stree Lightning project [paper](https://www.researchgate.net/publication/334528922_SRESLi_SMART_RENEWABLE_ENERGY_STREET_LIGHTING_SYSTEM)
+- Contributed to the Smart Street Lightning project [paper](https://www.researchgate.net/publication/334528922_SRESLi_SMART_RENEWABLE_ENERGY_STREET_LIGHTING_SYSTEM)
 - Courses Taught: Embedded Electronic Systems (2016), Microprocessor Architecture and Technology (2015, 2016, 2019), Electronics and Telecom. Project (2018), Telecom. Electronics (2018), Electronic Instrumentation (2014, 2015)
 
 # Education
