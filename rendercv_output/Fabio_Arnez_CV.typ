@@ -482,7 +482,7 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Research on DNNs\/LLMs\/VLMs confidence representation \(uncertainty estimation\) for out-of-distribution\/hallucination detection, runtime monitoring in complex computer vision tasks \(#link("https://fabioarnez.github.io/LaREx-website/")[demo object detection]\), embedded uncertainty estimation, safe and robust end-to-end DNN-based #link("https://fabioarnez.github.io/blog/2025/UQ-BDL-UAV-System/")[UAV navigation], and AI Safety.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Trustworthy Deep Learning Team leader, Ph.D. Theses and Interships supervison],[Contributing to the PRIMaL project: Developed LLM hallucination detection and OoD object detection methods],[Contributing to the #link("https://deepgreen.ai/")[DeepGreen] project for embedded AI, \(France 2030 program\): Developed dropout operator for the #link("https://gitlab.eclipse.org/eclipse/aidge/aidge")[Aidge] library for embedded DNN uncertainty estimation, studied the reliability & robustness of quantized CLIP],[Contributed to the #link("https://www.confiance.ai/")[Confiance.ai] program, \(France 2030 program\): Developed an OoD detection method #link("https://catalog.confiance.ai/records/vtkgc-x6d75")[library]],[Contributed to the #link("https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations")[Comp4Drones] project \(H2020 Program European Union\): Led WP4-Task4.4 on UAV Runtime Monitoring, developed a distributed uncertainty runtime monitoring system for DNN-based UAV navigation systems],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Trustworthy\/Safe deep learning team leader, Ph.D. Theses and interships supervison],[Contributing to the PRIMaL project: Developed and uncertainty-based method for LLM extrinsic & intrinsic hallucination detection, developed OoD object detection methods, collected a dataset for UAV navigation using the PyBullet simulator \(gym-pybullet-drones\)],[Contributing to the #link("https://deepgreen.ai/")[DeepGreen] project for embedded AI, \(France 2030 program\): Developed dropout operator for the #link("https://gitlab.eclipse.org/eclipse/aidge/aidge")[Aidge] library for embedded DNN uncertainty estimation, studied the reliability & robustness of quantized CLIP],[Contributed to the #link("https://www.confiance.ai/")[Confiance.ai] program, \(France 2030 program\): Developed an OoD detection method #link("https://catalog.confiance.ai/records/vtkgc-x6d75")[library]],[Contributed to the #link("https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations")[Comp4Drones] project \(H2020 Program European Union\): Led WP4-Task4.4 on UAV Runtime Monitoring, developed a distributed uncertainty runtime monitoring system for DNN-based UAV navigation systems],)
   ],
 )
 
@@ -501,9 +501,9 @@
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Enterprise data analysis, data visualization \(dashboards\)])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Enterprise data analysis & data visualization])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Engineering team #strong[leader]. Implemented dashboards with PowerBI to support enterprise decision-making],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Engineering team leader.],[Implemented PowerBI dashboards to support enterprise decision-making],)
   ],
 )
 
@@ -524,7 +524,7 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Part-time embbeded systems development])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Applied signal processing, embedded machine learning for signal classification],[Developed and implemented embedded system prototypes for wireless IoT applications \(802.15.4, Bluetooth\)],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Developed embedded machine learning prototypes for signal classification],[Developed embedded system prototypes for wireless IoT applications \(LoRaWAN, 802.15.4, Bluetooth\)],)
   ],
 )
 
@@ -545,7 +545,7 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Localization & navigation, ROS integration, embedded systems integration, computer vision tasks])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Built a custom UAV from scratch employing the PX4\/Pixhawk autopilot],[Implemented computer vision tasks with an onboard computer in the UAV],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Built a custom UAV from scratch employing the PX4\/Pixhawk autopilot],[Integrated software and hardware components \(modular system\) using ROS on the built UAV],[Implemented computer vision tasks with an onboard computer in the UAV],)
   ],
 )
 
@@ -566,7 +566,7 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Reseearch in embedded wireless IoT applications, Lecturer])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Contributed to the Smart Street Lightning project #link("https://www.researchgate.net/publication/334528922_SRESLi_SMART_RENEWABLE_ENERGY_STREET_LIGHTING_SYSTEM")[paper]],[Courses Taught: Embedded Electronic Systems \(2016\), Microprocessor Architecture and Technology \(2015, 2016, 2019\), Electronics and Telecom. Project \(2018\), Telecom. Electronics \(2018\), Electronic Instrumentation \(2014, 2015\)],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Contributed to the Smart Street Lightning project \(#link("https://www.researchgate.net/publication/334528922_SRESLi_SMART_RENEWABLE_ENERGY_STREET_LIGHTING_SYSTEM")[SRESLi]\)],[Courses Taught: Embedded Electronic Systems \(2016\), Microprocessor Architecture and Technology \(2015, 2016, 2019\), Electronics and Telecom. Project \(2018\), Telecom. Electronics \(2018\), Electronic Instrumentation \(2014, 2015\)],)
   ],
 )
 
@@ -681,7 +681,7 @@
 )
 
 
-== Publications
+== Selected Publications
 
 
 #one-col-entry(
@@ -709,10 +709,6 @@
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- Ollier, G., #strong[Arnez, F.], Adedjouma, M., Lallement, R., Gerasimou, S., & Mraidha, C. \(2023\). #emph[Towards an Ontological Methodology for Dynamic Dependability Management of Unmanned Aerial Vehicles]. In Proceedings of the DroneSE and RAPIDO: System Engineering for Constrained Embedded Systems \(pp. 12-19\)],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
   content: [- #strong[Arnez, F.], Ollier, G., Radermacher, A., Adedjouma, M., Gerasimou, S., Mraidha, C., & Terrier, F. \(2022, August\). #emph[Skeptical Dynamic Dependability Management for Automated Systems] In 2022 25th Euromicro Conference on Digital System Design \(DSD\) \(pp. 118-125\). IEEE Computer Society],
 )
 #v(design-entries-vertical-space-between-entries)
@@ -733,15 +729,15 @@
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- Canipa, F. , #strong[Arnez F.], Villazon A., Ormachea O., Rivero A., Dozio G.C., Escobar E. #emph[SRESLi: Smart Renewable Energy Street Lightning System] Revista Investigación & Desarrollo, 2019, vol. 19, no 1. ISSN:2518-4431 #link("https://www.upb.edu/revista-investigacion-desarrollo/index.php/id/article/view/186")[link]],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- #strong[Arnez F.], Villazon A., #emph[VIRMS – A Vehicle Information and Road Monitoring System] Investigacion y Desarrollo, Nr. 14, Vol. 2: 94 -107, Universidad Privada Boliviana, ISSN:1814-6333. #link("http://www.upb.edu/revista-investigacion-desarrollo/index.php/id/article/view/29")[link]],
+  content: [- #strong[Arnez F.], Villazon A. \(2014\). #emph[VIRMS – A Vehicle Information and Road Monitoring System] Investigacion y Desarrollo, Nr. 14, Vol. 2: 94 -107, Universidad Privada Boliviana, ISSN:1814-6333. #link("http://www1.upb.edu/revista-investigacion-desarrollo/index.php/id/article/view/29")[link]],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
   content: [- Casazola, D., #strong[Arnez, F.], Espinoza, H., #emph[Design Considerations of an Unmanned Aerial Vehicle for Aerial Filming] Techzone 2014, Jalasoft. #link("https://arxiv.org/pdf/2212.11402.pdf")[link]],
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [- Full list of publications in Google Scholar profile],
 )
 
 
