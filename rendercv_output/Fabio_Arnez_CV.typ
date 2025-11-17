@@ -685,7 +685,7 @@
 
 
 #one-col-entry(
-  content: [- Hajji, E., Bouguerra, A., #strong[Arnez, F.] \(2025, November\). #emph[The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns]. In AAAI Fall Symposium Series 2025 - ATRACC.],
+  content: [- Hajji, E., Bouguerra, A., #strong[Arnez, F.] \(2025, November\). #emph[The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns]. In AAAI Fall Symposium Series 2025 - ATRACC. #link("https://arxiv.org/abs/2511.10837")[link]],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
