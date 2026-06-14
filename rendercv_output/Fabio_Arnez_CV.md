@@ -155,7 +155,7 @@ Grade Project Title: *VIRMS: A Vehicle Information and Road Monitoring System*, 
 **Languages:** English (fluent, C1/C2), French (basic-intermediate, B1), Italian (basic), Spanish (native)
 
 # Selected Publications
-- Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., **Arnez, F.** (2026). *Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on CLIP Beyond Accuracy*. Accpeted at ICML 2026 [link](https://arxiv.org/abs/2509.21173)
+- Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., **Arnez, F.** (2026). *Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on CLIP Beyond Accuracy*. Accepted at ICML 2026 [link](https://arxiv.org/abs/2509.21173)
 
 - Suri, K., & **Arnez, F.** (2026). Digital Twins and World Models: A systematic taxonomic disambiguation.[link](https://cea.hal.science/cea-05547494/document)
 

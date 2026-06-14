@@ -112,7 +112,7 @@ cv:
       - label: Languages
         details: 'English (fluent, C1/C2), French (basic-intermediate, B1), Italian (basic), Spanish (native)'
     Selected Publications:
-      - bullet: "Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., **Arnez, F.** (2026). *Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on CLIP Beyond Accuracy*. Accpeted at ICML 2026 [link](https://arxiv.org/abs/2509.21173)"
+      - bullet: "Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., **Arnez, F.** (2026). *Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on CLIP Beyond Accuracy*. Accepted at ICML 2026 [link](https://arxiv.org/abs/2509.21173)"
       - bullet: "Suri, K., & **Arnez, F.** (2026). Digital Twins and World Models: A systematic taxonomic disambiguation.[link](https://cea.hal.science/cea-05547494/document)"
       - bullet: "Hajji, E., Bouguerra, A., **Arnez, F.** (2025, November). *The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns*. In AAAI Fall Symposium Series 2025 - ATRACC. [link](https://arxiv.org/abs/2511.10837)"
       - bullet: "Montoya, D., Bouguerra, A., Gomez-Villa, A., & **Arnez, F**. (2025, June). *FindMeIfYouCan: Bringing Open Set Metrics to Near, Far  and Farther Out-of-Distribution Object Detection*. arXiv preprint arXiv:2506.14008. (Under review) [link](https://arxiv.org/abs/2506.14008)"

@@ -305,7 +305,7 @@
 
 == Selected Publications
 
-- Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., #strong[Arnez, F.] (2026). #emph[Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on CLIP Beyond Accuracy]. Accpeted at ICML 2026 #link("https://arxiv.org/abs/2509.21173")[link]
+- Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., #strong[Arnez, F.] (2026). #emph[Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on CLIP Beyond Accuracy]. Accepted at ICML 2026 #link("https://arxiv.org/abs/2509.21173")[link]
 
 - Suri, K., & #strong[Arnez, F.] (2026). Digital Twins and World Models: A systematic taxonomic disambiguation.#link("https://cea.hal.science/cea-05547494/document")[link]
 
