@@ -103,7 +103,7 @@
 
 #regular-entry(
   [
-    #strong[Research Engineer in AI]
+    #strong[Research Engineer in AI — Trustworthy\/Safe Deep Learning Team Leader]
 
     #emph[Commissariat à l’énergie atomique et aux énergies alternatives (CEA), DRT.LIST.DILS.LSEA]
 
@@ -117,7 +117,7 @@
   main-column-second-row: [
     #summary[Research on DNNs\/LLMs\/VLMs\/VLAs confidence representation (uncertainty estimation) for out-of-distribution\/hallucination detection, runtime monitoring in complex computer vision tasks (#link("https://fabioarnez.github.io/LaREx-website/")[demo object detection]), quantization and embedded uncertainty estimation, safe and robust end-to-end DNN-based #link("https://fabioarnez.github.io/blog/2025/UQ-BDL-UAV-System/")[UAV navigation], and AI Safety.]
 
-    - Trustworthy\/Safe deep learning team leader, Ph.D. theses and internships supervision
+    - Ph.D. theses and internships supervision
 
     - Developed #link("https://github.com/CEA-LIST/runia_core/")[RunIA-Core], a Python library for DNN confidence representation and runtime monitoring, with support for PyTorch and PyTorch-Lightning, and integration with MLFlow for experiment tracking
 
@@ -291,11 +291,11 @@
 
 #strong[Programming:] Python (Numpy, Scipy, Matplotlib, Pandas, Seaborn...), C\/C++; PyQt5 for GUI dev;  Git
 
-#strong[Machine Learning & Deep Learning:] PyTorch, PyTorch-Lightning, Hydra, MLFlow, Slurm HPC, scikit-learn
+#strong[Machine Learning & Deep Learning:] PyTorch, PyTorch-Lightning, Hugging Face, Hydra, MLFlow, Slurm HPC
 
 #strong[Robotics:] ROS\/ROS 2; PyBullet, MuJoCo, CARLA, and AirSim simulators; Gymnasium; PX4\/Pixhawk autopilot
 
-#strong[Embedded Systems:] ST\/SiliconLabs\/NXP ARM Cortex (M0+, M3, M4), FreeRTOS
+#strong[Embedded Systems:] ST\/SiliconLabs\/NXP ARM Cortex (M0+, M3, M4), FreeRTOS; Aidge
 
 #strong[Languages:] English (fluent, C1\/C2), French (basic-intermediate, B1), Italian (basic), Spanish (native)
 
@@ -303,7 +303,7 @@
 
 - #strong[Arnez, F.], & Gomez-Villa, A. (2026, July). #emph[The SIGReg Objective as Variational Free Energy: A Theoretical Active-Inference Account of JEPA World Models]. arXiv preprint arXiv:2607.13612. #link("https://arxiv.org/abs/2607.13612")[link]
 
-- Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., #strong[Arnez, F.] (2026, July). #emph[Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy]. In International Conference on Machine Learning (ICML). #link("https://openreview.net/pdf?id=Wvd80GPJ9F")[link]
+- Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., #strong[Arnez, F.] (2026, July). #emph[Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy]. In #strong[International Conference on Machine Learning (ICML)]. #link("https://openreview.net/pdf?id=Wvd80GPJ9F")[link]
 
 - Rajendran, P. T., #strong[Arnez, F.], Espinoza, H., Delaborde, A., & Mraidha, C. (2026, June). #emph[FedSALAT: Adaptive Buffer-Based Active Learning for Federated Data Streams]. In 2026 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS). IEEE.
 
@@ -315,7 +315,7 @@
 
 - Montoya, D., Bouguerra, A., Gomez-Villa, A., & #strong[Arnez, F]. (2025, June). #emph[FindMeIfYouCan: Bringing Open Set Metrics to Near, Far and Farther Out-of-Distribution Object Detection]. arXiv preprint arXiv:2506.14008. (Under review) #link("https://arxiv.org/abs/2506.14008")[link]
 
-- #strong[Arnez, F.], Vasquez, D. A. M., Radermacher, A., & Terrier, F. (2024, July). #emph[Latent Representation Entropy Density for Distribution Shift Detection]. In Conference on Uncertainty in Artificial Intelligence (UAI). #link("https://proceedings.mlr.press/v244/arnez24a.html")[link]
+- #strong[Arnez, F.], Vasquez, D. A. M., Radermacher, A., & Terrier, F. (2024, July). #emph[Latent Representation Entropy Density for Distribution Shift Detection]. In #strong[Conference on Uncertainty in Artificial Intelligence (UAI)]. #link("https://proceedings.mlr.press/v244/arnez24a.html")[link]
 
 - #strong[Arnez, F.], Radermacher, A., & Espinoza, H. #emph[Quantifying and Using System Uncertainty in UAV navigation], in Workshop on Releasing Robots into the Wild: Simulations, Benchmarks, and Deployment at ICRA-2022, 2022. #link("https://arxiv.org/abs/2206.01953")[link]
 

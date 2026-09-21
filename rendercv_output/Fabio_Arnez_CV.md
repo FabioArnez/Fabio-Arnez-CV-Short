@@ -19,7 +19,7 @@
 ((* endif *))
 
 # <<section_title>>
-## **Research Engineer in AI**
+## **Research Engineer in AI — Trustworthy/Safe Deep Learning Team Leader**
 
 *Palaiseau, France*
 
@@ -29,7 +29,7 @@
 
 Research on DNNs/LLMs/VLMs/VLAs confidence representation (uncertainty estimation) for out-of-distribution/hallucination detection, runtime monitoring in complex computer vision tasks ([demo object detection](https://fabioarnez.github.io/LaREx-website/)), quantization and embedded uncertainty estimation, safe and robust end-to-end DNN-based [UAV navigation](https://fabioarnez.github.io/blog/2025/UQ-BDL-UAV-System/), and AI Safety.
 
-- Trustworthy/Safe deep learning team leader, Ph.D. theses and internships supervision
+- Ph.D. theses and internships supervision
 
 - Developed [RunIA-Core](https://github.com/CEA-LIST/runia_core/), a Python library for DNN confidence representation and runtime monitoring, with support for PyTorch and PyTorch-Lightning, and integration with MLFlow for experiment tracking
 
@@ -151,18 +151,18 @@ Grade Project Title: *VIRMS: A Vehicle Information and Road Monitoring System*, 
 # <<section_title>>
 **Programming:** Python (Numpy, Scipy, Matplotlib, Pandas, Seaborn...), C/C++; PyQt5 for GUI dev;  Git
 
-**Machine Learning & Deep Learning:** PyTorch, PyTorch-Lightning, Hydra, MLFlow, Slurm HPC, scikit-learn
+**Machine Learning & Deep Learning:** PyTorch, PyTorch-Lightning, Hugging Face, Hydra, MLFlow, Slurm HPC
 
 **Robotics:** ROS/ROS 2; PyBullet, MuJoCo, CARLA, and AirSim simulators; Gymnasium; PX4/Pixhawk autopilot
 
-**Embedded Systems:** ST/SiliconLabs/NXP ARM Cortex (M0+, M3, M4), FreeRTOS
+**Embedded Systems:** ST/SiliconLabs/NXP ARM Cortex (M0+, M3, M4), FreeRTOS; Aidge
 
 **Languages:** English (fluent, C1/C2), French (basic-intermediate, B1), Italian (basic), Spanish (native)
 
 # <<section_title>>
 - **Arnez, F.**, & Gomez-Villa, A. (2026, July). *The SIGReg Objective as Variational Free Energy: A Theoretical Active-Inference Account of JEPA World Models*. arXiv preprint arXiv:2607.13612. [link](https://arxiv.org/abs/2607.13612)
 
-- Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., **Arnez, F.** (2026, July). *Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy*. In International Conference on Machine Learning (ICML). [link](https://openreview.net/pdf?id=Wvd80GPJ9F)
+- Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., **Arnez, F.** (2026, July). *Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy*. In **International Conference on Machine Learning (ICML)**. [link](https://openreview.net/pdf?id=Wvd80GPJ9F)
 
 - Rajendran, P. T., **Arnez, F.**, Espinoza, H., Delaborde, A., & Mraidha, C. (2026, June). *FedSALAT: Adaptive Buffer-Based Active Learning for Federated Data Streams*. In 2026 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS). IEEE.
 
@@ -174,7 +174,7 @@ Grade Project Title: *VIRMS: A Vehicle Information and Road Monitoring System*, 
 
 - Montoya, D., Bouguerra, A., Gomez-Villa, A., & **Arnez, F**. (2025, June). *FindMeIfYouCan: Bringing Open Set Metrics to Near, Far and Farther Out-of-Distribution Object Detection*. arXiv preprint arXiv:2506.14008. (Under review) [link](https://arxiv.org/abs/2506.14008)
 
-- **Arnez, F.**, Vasquez, D. A. M., Radermacher, A., & Terrier, F. (2024, July). *Latent Representation Entropy Density for Distribution Shift Detection*. In Conference on Uncertainty in Artificial Intelligence (UAI). [link](https://proceedings.mlr.press/v244/arnez24a.html)
+- **Arnez, F.**, Vasquez, D. A. M., Radermacher, A., & Terrier, F. (2024, July). *Latent Representation Entropy Density for Distribution Shift Detection*. In **Conference on Uncertainty in Artificial Intelligence (UAI)**. [link](https://proceedings.mlr.press/v244/arnez24a.html)
 
 - **Arnez, F.**, Radermacher, A., & Espinoza, H. *Quantifying and Using System Uncertainty in UAV navigation*, in Workshop on Releasing Robots into the Wild: Simulations, Benchmarks, and Deployment at ICRA-2022, 2022. [link](https://arxiv.org/abs/2206.01953)
 
