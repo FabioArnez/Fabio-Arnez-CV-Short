@@ -39,17 +39,25 @@
 
 <body>
     <article class="markdown-body">
-        <h1>Fabio Arnez's CV</h1>
-        <ul>
-        <li>Email: <a href="mailto:fabio.arnez@cea.fr">fabio.arnez@cea.fr</a></li>
-        <li>Location: Orsay, France</li>
-        <li>Website: <a href="https://fabioarnez.github.io/">fabioarnez.github.io</a></li>
-        <li>GitHub: <a href="https://github.com/FabioArnez">FabioArnez</a></li>
-        <li>LinkedIn: <a href="https://linkedin.com/in/fabio-arnez">fabio-arnez</a></li>
-        <li>Google Scholar: <a href="https://scholar.google.com/citations?user=faWEPTIAAAAJ&amp;hl">faWEPTIAAAAJ&amp;hl</a></li>
-        <li>ORCID: <a href="https://orcid.org/0000-0003-0367-3035">0000-0003-0367-3035</a></li>
-        </ul>
-        <h1>Experience</h1>
+        <h1>&lt;<cv.name>&gt;'s CV</h1>
+        <p>((<em> if cv.phone </em>))
+        - Phone: &lt;<cv.phone|replace("tel:", "")|replace("-"," ")>&gt;
+        ((<em> endif </em>))
+        ((<em> if cv.email </em>))
+        - Email: <a href="mailto:&lt;&lt;cv.email&gt;&gt;">&lt;<cv.email>&gt;</a>
+        ((<em> endif </em>))
+        ((<em> if cv.location </em>))
+        - Location: &lt;<cv.location>&gt;
+        ((<em> endif </em>))
+        ((<em> if cv.website </em>))
+        - Website: <a href="&lt;&lt;cv.website&gt;&gt;">&lt;<cv.website|replace("https://","")|replace("/","")>&gt;</a>
+        ((<em> endif </em>))
+        ((<em> if cv.social_networks </em>))
+            ((<em> for network in cv.social_networks </em>))
+        - &lt;<network.network>&gt;: <a href="&lt;&lt;network.url&gt;&gt;">&lt;<network.username>&gt;</a>
+            ((<em> endfor </em>))
+        ((<em> endif </em>))</p>
+        <h1>&lt;<section_title>&gt;</h1>
         <h2><strong>Research Engineer in AI</strong></h2>
         <p><em>Palaiseau, France</em></p>
         <p><em>Oct 2019 – present</em></p>
@@ -57,13 +65,13 @@
         <p>Research on DNNs/LLMs/VLMs/VLAs confidence representation (uncertainty estimation) for out-of-distribution/hallucination detection, runtime monitoring in complex computer vision tasks (<a href="https://fabioarnez.github.io/LaREx-website/">demo object detection</a>), quantization and embedded uncertainty estimation, safe and robust end-to-end DNN-based <a href="https://fabioarnez.github.io/blog/2025/UQ-BDL-UAV-System/">UAV navigation</a>, and AI Safety.</p>
         <ul>
         <li>
-        <p>Trustworthy/Safe deep learning team leader, Ph.D. Theses and interships supervison</p>
+        <p>Trustworthy/Safe deep learning team leader, Ph.D. theses and internships supervision</p>
         </li>
         <li>
         <p>Developed <a href="https://github.com/CEA-LIST/runia_core/">RunIA-Core</a>, a Python library for DNN confidence representation and runtime monitoring, with support for PyTorch and PyTorch-Lightning, and integration with MLFlow for experiment tracking</p>
         </li>
         <li>
-        <p>Contributing to the PRIMaL project: Developed and uncertainty-based method for LLM extrinsic &amp; intrinsic hallucination detection, developed OoD object detection methods, collected a dataset for UAV navigation using the PyBullet simulator (gym-pybullet-drones)</p>
+        <p>Contributed to the PRIMaL project: Developed an uncertainty-based method for LLM extrinsic &amp; intrinsic hallucination detection, developed OoD object detection methods, collected a dataset for UAV navigation using the PyBullet simulator (gym-pybullet-drones)</p>
         </li>
         <li>
         <p>Contributing to the <a href="https://deepgreen.ai/">DeepGreen</a> project for embedded AI, (France 2030 program): Developed dropout operator for the <a href="https://gitlab.eclipse.org/eclipse/aidge/aidge">Aidge</a> library for embedded DNN uncertainty estimation, studied the reliability &amp; robustness of quantized CLIP</p>
@@ -79,10 +87,9 @@
         <p><em>Cochabamba, Bolivia</em></p>
         <p><em>Apr 2019 – Oct 2019</em></p>
         <p><em>Bamboo</em></p>
-        <p>Enterprise data analysis &amp; data visualization</p>
         <ul>
         <li>
-        <p>Engineering team leader.</p>
+        <p>Engineering team leader; enterprise data analysis &amp; data visualization</p>
         </li>
         <li>
         <p>Implemented PowerBI dashboards to support enterprise decision-making</p>
@@ -92,7 +99,7 @@
         <p><em>Lugano, Switzerland</em></p>
         <p><em>Sept 2016 – Aug 2018</em></p>
         <p><em>University of Applied Arts and Science from Southern Switzerland (SUPSI), ISEA, SMT Lab</em></p>
-        <p>Part-time embbeded systems development</p>
+        <p>Part-time embedded systems development</p>
         <ul>
         <li>
         <p>Developed embedded machine learning prototypes for signal classification</p>
@@ -111,26 +118,23 @@
         <p>Built a custom UAV from scratch employing the PX4/Pixhawk autopilot</p>
         </li>
         <li>
-        <p>Integrated software and hardware components (modular system) using ROS on the built UAV</p>
-        </li>
-        <li>
-        <p>Implemented computer vision tasks with an onboard computer in the UAV</p>
+        <p>Integrated software &amp; hardware components (modular system) using ROS, and implemented onboard computer vision tasks</p>
         </li>
         </ul>
         <h2><strong>Adjunct Researcher and Lecturer</strong></h2>
         <p><em>Cochabamba, Bolivia</em></p>
         <p><em>Sept 2014 – Mar 2019</em></p>
         <p><em>Universidad Privada Boliviana (UPB)</em></p>
-        <p>Reseearch in embedded wireless IoT applications, Lecturer</p>
+        <p>Research in embedded wireless IoT applications, Lecturer</p>
         <ul>
         <li>
         <p>Contributed to the Smart Street Lightning project (<a href="https://www.researchgate.net/publication/334528922_SRESLi_SMART_RENEWABLE_ENERGY_STREET_LIGHTING_SYSTEM">SRESLi</a>)</p>
         </li>
         <li>
-        <p>Courses Taught: Embedded Electronic Systems (2016), Microprocessor Architecture and Technology (2015, 2016, 2019), Electronics and Telecom. Project (2018), Telecom. Electronics (2018), Electronic Instrumentation (2014, 2015)</p>
+        <p>Courses Taught (2014-2019): Embedded Electronic Systems, Microprocessor Architecture &amp; Technology, Electronics &amp; Telecom. Project, Telecom. Electronics, Electronic Instrumentation</p>
         </li>
         </ul>
-        <h1>Education</h1>
+        <h1>&lt;<section_title>&gt;</h1>
         <h2><strong>Université Paris-Saclay</strong></h2>
         <p><em>Palaiseau, France</em></p>
         <p><em>Nov 2019 – Dec 2023</em></p>
@@ -153,30 +157,36 @@
         <p><em>BSc.</em> <em>in</em> <em>Electronics and Telecommunications Engineering</em></p>
         <p>Grade Project Title: <em>VIRMS: A Vehicle Information and Road Monitoring System</em>, <a href="http://www.upb.edu/revista-investigacion-desarrollo/index.php/id/article/view/29">paper</a></p>
         <ul>
-        <li>Embbeded systems, RTOS, data acquisition &amp; processing, IoT, embedded GUI development</li>
+        <li>Embedded systems, RTOS, data acquisition &amp; processing, IoT, embedded GUI development</li>
         </ul>
-        <h1>Skills</h1>
+        <h1>&lt;<section_title>&gt;</h1>
         <p><strong>Programming:</strong> Python (Numpy, Scipy, Matplotlib, Pandas, Seaborn...), C/C++; PyQt5 for GUI dev;  Git</p>
         <p><strong>Machine Learning &amp; Deep Learning:</strong> PyTorch, PyTorch-Lightning, Hydra, MLFlow, Slurm HPC, scikit-learn</p>
         <p><strong>Robotics:</strong> ROS/ROS 2; PyBullet, MuJoCo, CARLA, and AirSim simulators; Gymnasium; PX4/Pixhawk autopilot</p>
         <p><strong>Embedded Systems:</strong> ST/SiliconLabs/NXP ARM Cortex (M0+, M3, M4), FreeRTOS</p>
         <p><strong>Languages:</strong> English (fluent, C1/C2), French (basic-intermediate, B1), Italian (basic), Spanish (native)</p>
-        <h1>Selected Publications</h1>
+        <h1>&lt;<section_title>&gt;</h1>
         <ul>
         <li>
-        <p>Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., <strong>Arnez, F.</strong> (2026). <em>Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on CLIP Beyond Accuracy</em>. Accepted at ICML 2026 <a href="https://arxiv.org/abs/2509.21173">link</a></p>
+        <p><strong>Arnez, F.</strong>, &amp; Gomez-Villa, A. (2026, July). <em>The SIGReg Objective as Variational Free Energy: A Theoretical Active-Inference Account of JEPA World Models</em>. arXiv preprint arXiv:2607.13612. <a href="https://arxiv.org/abs/2607.13612">link</a></p>
         </li>
         <li>
-        <p>Suri, K., &amp; <strong>Arnez, F.</strong> (2026). Digital Twins and World Models: A systematic taxonomic disambiguation.<a href="https://cea.hal.science/cea-05547494/document">link</a></p>
+        <p>Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., <strong>Arnez, F.</strong> (2026, July). <em>Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy</em>. In International Conference on Machine Learning (ICML). <a href="https://openreview.net/pdf?id=Wvd80GPJ9F">link</a></p>
         </li>
         <li>
-        <p>Hajji, E., Bouguerra, A., <strong>Arnez, F.</strong> (2025, November). <em>The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns</em>. In AAAI Fall Symposium Series 2025 - ATRACC. <a href="https://arxiv.org/abs/2511.10837">link</a></p>
+        <p>Rajendran, P. T., <strong>Arnez, F.</strong>, Espinoza, H., Delaborde, A., &amp; Mraidha, C. (2026, June). <em>FedSALAT: Adaptive Buffer-Based Active Learning for Federated Data Streams</em>. In 2026 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS). IEEE.</p>
         </li>
         <li>
-        <p>Montoya, D., Bouguerra, A., Gomez-Villa, A., &amp; <strong>Arnez, F</strong>. (2025, June). <em>FindMeIfYouCan: Bringing Open Set Metrics to Near, Far  and Farther Out-of-Distribution Object Detection</em>. arXiv preprint arXiv:2506.14008. (Under review) <a href="https://arxiv.org/abs/2506.14008">link</a></p>
+        <p>Suri, K., &amp; <strong>Arnez, F.</strong> (2026, June). <em>Digital Twins and World Models: A Systematic Taxonomic Disambiguation</em>. In International Conference on Advanced Information Systems Engineering (CAiSE). <a href="https://cea.hal.science/cea-05547494/document">link</a></p>
         </li>
         <li>
-        <p>Rajendran, P. T., <strong>Arnez, F.</strong>, Espinoza, H., Delaborde, A., &amp; Mraidha, C. (2025, December). Oracle-Guided Soft Shielding for Safe Move Prediction in Chess. In 2025 International Conference on Machine Learning and Applications (ICMLA) (pp. 875-880). IEEE.</p>
+        <p>Hajji, E., Bouguerra, A., <strong>Arnez, F.</strong> (2025, November). <em>The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns</em>. In Proceedings of the AAAI Symposium Series (AAAI Fall Symposium - ATRACC), 7(1). <a href="https://arxiv.org/abs/2511.10837">link</a></p>
+        </li>
+        <li>
+        <p>Rajendran, P. T., <strong>Arnez, F.</strong>, Espinoza, H., Delaborde, A., &amp; Mraidha, C. (2025, December). <em>Oracle-Guided Soft Shielding for Safe Move Prediction in Chess</em>. In 2025 International Conference on Machine Learning and Applications (ICMLA) (pp. 875-880). IEEE.</p>
+        </li>
+        <li>
+        <p>Montoya, D., Bouguerra, A., Gomez-Villa, A., &amp; <strong>Arnez, F</strong>. (2025, June). <em>FindMeIfYouCan: Bringing Open Set Metrics to Near, Far and Farther Out-of-Distribution Object Detection</em>. arXiv preprint arXiv:2506.14008. (Under review) <a href="https://arxiv.org/abs/2506.14008">link</a></p>
         </li>
         <li>
         <p><strong>Arnez, F.</strong>, Vasquez, D. A. M., Radermacher, A., &amp; Terrier, F. (2024, July). <em>Latent Representation Entropy Density for Distribution Shift Detection</em>. In Conference on Uncertainty in Artificial Intelligence (UAI). <a href="https://proceedings.mlr.press/v244/arnez24a.html">link</a></p>
@@ -194,25 +204,19 @@
         <p><strong>Arnez, F.</strong>, Espinoza, H., Radermacher, A., &amp; Terrier, F. <em>A Comparison of Uncertainty Estimation Approaches in Deep Learning Components for Autonomous Vehicle Applications.</em> Proceedings of the Workshop on Artificial Intelligence Safety 2020, vol 2640, ISSN:1673-0073. <a href="http://ceur-ws.org/Vol-2640/paper_24.pdf">link</a></p>
         </li>
         <li>
-        <p><strong>Arnez F.</strong>, Villazon A. (2014). <em>VIRMS – A Vehicle Information and Road Monitoring System</em> Investigacion y Desarrollo, Nr. 14, Vol. 2: 94 -107, Universidad Privada Boliviana, ISSN:1814-6333. <a href="http://www1.upb.edu/revista-investigacion-desarrollo/index.php/id/article/view/29">link</a></p>
-        </li>
-        <li>
-        <p>Casazola, D., <strong>Arnez, F.</strong>, Espinoza, H., <em>Design Considerations of an Unmanned Aerial Vehicle for Aerial Filming</em> Techzone 2014, Jalasoft. <a href="https://arxiv.org/pdf/2212.11402.pdf">link</a></p>
-        </li>
-        <li>
         <p>Full list of publications in <a href="https://scholar.google.com/citations?hl=en&amp;user=faWEPTIAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar profile</a></p>
         </li>
         </ul>
-        <h1>Other Scientific Activities</h1>
+        <h1>&lt;<section_title>&gt;</h1>
         <ul>
         <li>
-        <p><strong>Ph.D. Thesis Supervision:</strong> <em>Deep Neural Network Uncertainty Estimation on Embedded Targets</em> (Aymen Bouguerra, 2024 - Present); <em>Out-of-Distribution Detection with Vision Foundation Models and Post-hoc Methods</em> (Joaquin Figueira, starting Nov. 2025)</p>
+        <p><strong>Ph.D. Thesis Supervision:</strong> <em>Deep Neural Network Uncertainty Estimation on Embedded Targets</em> (Aymen Bouguerra, 2024 - Present); <em>Out-of-Distribution Detection with Vision Foundation Models and Post-hoc Methods</em> (starting Oct. 2026)</p>
         </li>
         <li>
-        <p><strong>Reviewer in Conferences/Workshops:</strong> ICML(2026--Gold Reviewer), CVPR (2025), AAAI (2026, 2025), UAI (2026, 2025, 2024), WACV (2025), IV (2025, 2022), AI-Safety workshop at IJCAI (2024), Releasing Robots in the Wild Workshop at ICRA (2022)</p>
+        <p><strong>Reviewer in Conferences/Workshops:</strong> ICML (2026 -- Gold Reviewer), CVPR (2025), AAAI (2026, 2025), UAI (2026, 2025, 2024), WACV (2025), IV (2025, 2022), AI-Safety workshop at IJCAI (2024), Releasing Robots in the Wild Workshop at ICRA (2022)</p>
         </li>
         <li>
-        <p><strong>Workshop &amp; Confernece Organizing Comitee Member:</strong> Workshop on AI Safety and Security at IJCAI 2024, ICVES 2026 (ongoing)</p>
+        <p><strong>Workshop &amp; Conference Organizing Committee Member:</strong> Workshop on AI Safety and Security at IJCAI 2024, ICVES 2026 (ongoing)</p>
         </li>
         </ul>
     </article>
