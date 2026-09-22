@@ -331,6 +331,6 @@
 
 - #strong[Ph.D. Thesis Supervision:] #emph[Deep Neural Network Uncertainty Estimation on Embedded Targets] (Aymen Bouguerra, 2024 - Present); #emph[Out-of-Distribution Detection with Vision Foundation Models and Post-hoc Methods] (starting Oct. 2026)
 
-- #strong[Reviewer in Conferences\/Workshops:] ICML (2026 -- Gold Reviewer), CVPR (2025), AAAI (2026, 2025), UAI (2026, 2025, 2024), WACV (2025), IV (2025, 2022), AI-Safety workshop at IJCAI (2024), Releasing Robots in the Wild Workshop at ICRA (2022)
+- #strong[Reviewer in Conferences\/Workshops:] NeurIPS (2026), ICML (2026 -- Gold Reviewer), BMVC (2026), CVPR (2025), AAAI (2026, 2025), UAI (2026, 2025, 2024), WACV (2025), IV (2025, 2022), AI-Safety workshop at IJCAI (2024), Releasing Robots in the Wild Workshop at ICRA (2022)
 
 - #strong[Workshop & Conference Organizing Committee Member:] Workshop on AI Safety and Security at IJCAI 2024, ICVES 2026 (ongoing)
