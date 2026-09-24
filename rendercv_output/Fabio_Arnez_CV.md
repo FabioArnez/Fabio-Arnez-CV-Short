@@ -160,23 +160,23 @@ Grade Project Title: *VIRMS: A Vehicle Information and Road Monitoring System*, 
 **Languages:** English (fluent, C1/C2), French (basic-intermediate, B1), Italian (basic), Spanish (native)
 
 # <<section_title>>
+- Bouguerra, A., Gomez-Villa, A., Mraidha, C., **Arnez, F.** (2026, December). *Disentangling the Good From the Bad: Quantization-Induced Flips Are Not Random*. To appear in **Conference on Neural Information Processing Systems (NeurIPS)**.
+
+- Bouguerra, A., Radermacher, A., Mraidha, C., **Arnez, F.** (2026, November). *Quantization and Corruption Robustness in Deployed Road-Scene Perception*. To appear in IEEE International Conference on Vehicular Electronics and Safety (ICVES).
+
+- Montoya, D., Espinoza Mayzer, M. S., **Arnez, F.** (2026, November). *Drive-SynOOD-OD: A Diffusion-Inpainted Synthetic Out-of-Distribution Object Detection Benchmark for Autonomous Driving*. To appear in IEEE International Conference on Vehicular Electronics and Safety (ICVES). [dataset](https://huggingface.co/datasets/farnez/drive-synood-od-data)
+
 - **Arnez, F.**, & Gomez-Villa, A. (2026, July). *The SIGReg Objective as Variational Free Energy: A Theoretical Active-Inference Account of JEPA World Models*. arXiv preprint arXiv:2607.13612. [link](https://arxiv.org/abs/2607.13612)
 
 - Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., **Arnez, F.** (2026, July). *Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy*. In **International Conference on Machine Learning (ICML)**. [link](https://openreview.net/pdf?id=Wvd80GPJ9F)
-
-- Rajendran, P. T., **Arnez, F.**, Espinoza, H., Delaborde, A., & Mraidha, C. (2026, June). *FedSALAT: Adaptive Buffer-Based Active Learning for Federated Data Streams*. In 2026 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS). IEEE.
 
 - Suri, K., & **Arnez, F.** (2026, June). *Digital Twins and World Models: A Systematic Taxonomic Disambiguation*. In International Conference on Advanced Information Systems Engineering (CAiSE). [link](https://cea.hal.science/cea-05547494/document)
 
 - Hajji, E., Bouguerra, A., **Arnez, F.** (2025, November). *The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns*. In Proceedings of the AAAI Symposium Series (AAAI Fall Symposium - ATRACC), 7(1). [link](https://arxiv.org/abs/2511.10837)
 
-- Rajendran, P. T., **Arnez, F.**, Espinoza, H., Delaborde, A., & Mraidha, C. (2025, December). *Oracle-Guided Soft Shielding for Safe Move Prediction in Chess*. In 2025 International Conference on Machine Learning and Applications (ICMLA) (pp. 875-880). IEEE.
-
 - Montoya, D., Bouguerra, A., Gomez-Villa, A., & **Arnez, F**. (2025, June). *FindMeIfYouCan: Bringing Open Set Metrics to Near, Far and Farther Out-of-Distribution Object Detection*. arXiv preprint arXiv:2506.14008. (Under review) [link](https://arxiv.org/abs/2506.14008)
 
 - **Arnez, F.**, Vasquez, D. A. M., Radermacher, A., & Terrier, F. (2024, July). *Latent Representation Entropy Density for Distribution Shift Detection*. In **Conference on Uncertainty in Artificial Intelligence (UAI)**. [link](https://proceedings.mlr.press/v244/arnez24a.html)
-
-- **Arnez, F.**, Radermacher, A., & Espinoza, H. *Quantifying and Using System Uncertainty in UAV navigation*, in Workshop on Releasing Robots into the Wild: Simulations, Benchmarks, and Deployment at ICRA-2022, 2022. [link](https://arxiv.org/abs/2206.01953)
 
 - **Arnez, F.**, Espinoza, H., Radermacher, A., & Terrier, F. (2022, September). *Towards Dependable Autonomous Systems Based on Bayesian Deep Learning Components* In 2022 18th European Dependable Computing Conference (EDCC) (pp. 65-72). IEEE. [link](https://arxiv.org/abs/2301.05297)
 
