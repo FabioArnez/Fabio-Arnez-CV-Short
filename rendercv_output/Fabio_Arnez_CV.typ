@@ -105,7 +105,7 @@
   [
     #strong[Research Engineer in AI — Trustworthy\/Safe Deep Learning Team Leader]
 
-    #emph[Commissariat à l’énergie atomique et aux énergies alternatives (CEA), DRT.LIST.DILS.LSEA]
+    #emph[CEA-List, Université Paris-Saclay, Laboratory of Embedded and Autonomous Systems (LSEA)]
 
   ],
   [
@@ -115,7 +115,7 @@
 
   ],
   main-column-second-row: [
-    #summary[Research on DNNs\/LLMs\/VLMs\/VLAs confidence representation (uncertainty estimation) for out-of-distribution\/hallucination detection, runtime monitoring in complex computer vision tasks (#link("https://fabioarnez.github.io/LaREx-website/")[demo object detection]), quantization and embedded uncertainty estimation, safe and robust end-to-end DNN-based #link("https://fabioarnez.github.io/blog/2025/UQ-BDL-UAV-System/")[UAV navigation], and AI Safety.]
+    #summary[Research on DNNs\/LLMs\/VLMs\/VLAs confidence representation (uncertainty estimation) for out-of-distribution\/hallucination detection, runtime monitoring in complex computer vision tasks (#link("https://fabioarnez.github.io/LaREx-website/")[demo object detection]), quantization and embedded uncertainty estimation, safe and robust end-to-end DNN-based #link("https://fabioarnez.github.io/blog/2025/UQ-BDL-UAV-System/")[UAV navigation], world models, and AI Safety.]
 
     - Ph.D. theses and internships supervision
 
@@ -311,7 +311,7 @@
 
 - Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., #strong[Arnez, F.] (2026, July). #emph[Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy]. In #strong[International Conference on Machine Learning (ICML)]. #link("https://openreview.net/pdf?id=Wvd80GPJ9F")[link]
 
-- Suri, K., & #strong[Arnez, F.] (2026, June). #emph[Digital Twins and World Models: A Systematic Taxonomic Disambiguation]. In International Conference on Advanced Information Systems Engineering (CAiSE). #link("https://cea.hal.science/cea-05547494/document")[link]
+- Suri, K., & #strong[Arnez, F.] (2026, June). #emph[Digital Twins and World Models: A Systematic Taxonomic Disambiguation]. In International Conference on Advanced Information Systems Engineering (CAiSE) (pp. 61-66). #link("https://cea.hal.science/cea-05547494/document")[link]
 
 - Hajji, E., Bouguerra, A., #strong[Arnez, F.] (2025, November). #emph[The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns]. In Proceedings of the AAAI Symposium Series (AAAI Fall Symposium - ATRACC), 7(1). #link("https://arxiv.org/abs/2511.10837")[link]
 
@@ -331,6 +331,6 @@
 
 - #strong[Ph.D. Thesis Supervision:] #emph[Deep Neural Network Uncertainty Estimation on Embedded Targets] (Aymen Bouguerra, 2024 - Present); #emph[Out-of-Distribution Detection with Vision Foundation Models and Post-hoc Methods] (starting Oct. 2026)
 
-- #strong[Reviewer in Conferences\/Workshops:] NeurIPS (2026), ICML (2026 -- Gold Reviewer), BMVC (2026), CVPR (2025), AAAI (2026, 2025), UAI (2026, 2025, 2024), WACV (2025), IV (2025, 2022), AI-Safety workshop at IJCAI (2024), Releasing Robots in the Wild Workshop at ICRA (2022)
+- #strong[Reviewer in Conferences\/Workshops:] NeurIPS (2026), ICML (2026 -- Gold Reviewer), ICLR (2027, ongoing), BMVC (2026), CVPR (2025), AAAI (2026, 2025), UAI (2026, 2025, 2024), WACV (2025), IV (2025, 2022), AI-Safety workshop at IJCAI (2024), Releasing Robots in the Wild Workshop at ICRA (2022)
 
 - #strong[Workshop & Conference Organizing Committee Member:] Workshop on AI Safety and Security at IJCAI 2024, ICVES 2026 (ongoing)

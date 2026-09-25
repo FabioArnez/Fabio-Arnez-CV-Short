@@ -25,9 +25,9 @@
 
 *Oct 2019 – present*
 
-*Commissariat à l’énergie atomique et aux énergies alternatives (CEA), DRT.LIST.DILS.LSEA*
+*CEA-List, Université Paris-Saclay, Laboratory of Embedded and Autonomous Systems (LSEA)*
 
-Research on DNNs/LLMs/VLMs/VLAs confidence representation (uncertainty estimation) for out-of-distribution/hallucination detection, runtime monitoring in complex computer vision tasks ([demo object detection](https://fabioarnez.github.io/LaREx-website/)), quantization and embedded uncertainty estimation, safe and robust end-to-end DNN-based [UAV navigation](https://fabioarnez.github.io/blog/2025/UQ-BDL-UAV-System/), and AI Safety.
+Research on DNNs/LLMs/VLMs/VLAs confidence representation (uncertainty estimation) for out-of-distribution/hallucination detection, runtime monitoring in complex computer vision tasks ([demo object detection](https://fabioarnez.github.io/LaREx-website/)), quantization and embedded uncertainty estimation, safe and robust end-to-end DNN-based [UAV navigation](https://fabioarnez.github.io/blog/2025/UQ-BDL-UAV-System/), world models, and AI Safety.
 
 - Ph.D. theses and internships supervision
 
@@ -170,7 +170,7 @@ Grade Project Title: *VIRMS: A Vehicle Information and Road Monitoring System*, 
 
 - Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., **Arnez, F.** (2026, July). *Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy*. In **International Conference on Machine Learning (ICML)**. [link](https://openreview.net/pdf?id=Wvd80GPJ9F)
 
-- Suri, K., & **Arnez, F.** (2026, June). *Digital Twins and World Models: A Systematic Taxonomic Disambiguation*. In International Conference on Advanced Information Systems Engineering (CAiSE). [link](https://cea.hal.science/cea-05547494/document)
+- Suri, K., & **Arnez, F.** (2026, June). *Digital Twins and World Models: A Systematic Taxonomic Disambiguation*. In International Conference on Advanced Information Systems Engineering (CAiSE) (pp. 61-66). [link](https://cea.hal.science/cea-05547494/document)
 
 - Hajji, E., Bouguerra, A., **Arnez, F.** (2025, November). *The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns*. In Proceedings of the AAAI Symposium Series (AAAI Fall Symposium - ATRACC), 7(1). [link](https://arxiv.org/abs/2511.10837)
 
@@ -189,6 +189,6 @@ Grade Project Title: *VIRMS: A Vehicle Information and Road Monitoring System*, 
 # <<section_title>>
 - **Ph.D. Thesis Supervision:** *Deep Neural Network Uncertainty Estimation on Embedded Targets* (Aymen Bouguerra, 2024 - Present); *Out-of-Distribution Detection with Vision Foundation Models and Post-hoc Methods* (starting Oct. 2026)
 
-- **Reviewer in Conferences/Workshops:** NeurIPS (2026), ICML (2026 -- Gold Reviewer), BMVC (2026), CVPR (2025), AAAI (2026, 2025), UAI (2026, 2025, 2024), WACV (2025), IV (2025, 2022), AI-Safety workshop at IJCAI (2024), Releasing Robots in the Wild Workshop at ICRA (2022)
+- **Reviewer in Conferences/Workshops:** NeurIPS (2026), ICML (2026 -- Gold Reviewer), ICLR (2027, ongoing), BMVC (2026), CVPR (2025), AAAI (2026, 2025), UAI (2026, 2025, 2024), WACV (2025), IV (2025, 2022), AI-Safety workshop at IJCAI (2024), Releasing Robots in the Wild Workshop at ICRA (2022)
 
 - **Workshop & Conference Organizing Committee Member:** Workshop on AI Safety and Security at IJCAI 2024, ICVES 2026 (ongoing)
