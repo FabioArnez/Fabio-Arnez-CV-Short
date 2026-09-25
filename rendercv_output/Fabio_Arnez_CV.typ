@@ -94,7 +94,7 @@
   [#link("https://fabioarnez.github.io/", icon: false, if-underline: false, if-color: false)[fabioarnez.github.io]],
   [#link("https://github.com/FabioArnez", icon: false, if-underline: false, if-color: false)[github.com\/FabioArnez]],
   [#link("https://linkedin.com/in/fabio-arnez", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/fabio-arnez]],
-  [#link("https://scholar.google.com/citations?user=faWEPTIAAAAJ&hl", icon: false, if-underline: false, if-color: false)[scholar.google.com\/citations?user=faWEPTIAAAAJ&hl]],
+  [#link("https://scholar.google.com/citations?user=faWEPTIAAAAJ", icon: false, if-underline: false, if-color: false)[scholar.google.com\/citations?user=faWEPTIAAAAJ]],
   [#link("https://orcid.org/0000-0003-0367-3035", icon: false, if-underline: false, if-color: false)[orcid.org\/0000-0003-0367-3035]],
 )
 
@@ -121,11 +121,11 @@
 
     - Developed #link("https://github.com/CEA-LIST/runia_core/")[RunIA-Core], a Python library for DNN confidence representation and runtime monitoring, with support for PyTorch and PyTorch-Lightning, and integration with MLFlow for experiment tracking
 
-    - Contributed to the PRIMaL project: Developed an uncertainty-based method for LLM extrinsic & intrinsic hallucination detection, developed OoD object detection methods, collected a dataset for UAV navigation using the PyBullet simulator (gym-pybullet-drones)
+    - Contributed to the PRIMaL (#link("https://www.lereseaudescarnot.fr/fr")[Carnot]) project: Developed an uncertainty-based method for LLM extrinsic & intrinsic hallucination detection, developed OoD object detection methods, collected a dataset for UAV navigation using the PyBullet simulator (gym-pybullet-drones)
 
-    - Contributing to the #link("https://deepgreen.ai/")[DeepGreen] project for embedded AI, (France 2030 program): Developed dropout operator for the #link("https://gitlab.eclipse.org/eclipse/aidge/aidge")[Aidge] library for embedded DNN uncertainty estimation, studied the reliability & robustness of quantized CLIP
+    - Contributing to the #link("https://deepgreen.ai/")[DeepGreen] project for embedded AI (France 2030 program): Developed dropout operator for the #link("https://gitlab.eclipse.org/eclipse/aidge/aidge")[Aidge] library for embedded DNN uncertainty estimation, studied the reliability & robustness of quantized CLIP
 
-    - Contributed to the #link("https://www.confiance.ai/")[Confiance.ai] program, (France 2030 program): Developed an OoD detection method #link("https://catalog.confiance.ai/records/vtkgc-x6d75")[library]
+    - Contributed to the #link("https://www.confiance.ai/")[Confiance.ai] program (France 2030 program): Developed an OoD detection method library
 
     - Contributed to the #link("https://cordis.europa.eu/article/id/444650-innovative-framework-for-cohesive-independent-and-reliable-drone-operations")[Comp4Drones] project (H2020 Program European Union): Led WP4-Task4.4 on UAV Runtime Monitoring, developed a distributed uncertainty runtime monitoring system for DNN-based UAV navigation systems
 
@@ -157,7 +157,7 @@
   [
     #strong[Research Assistant]
 
-    #emph[University of Applied Arts and Science from Southern Switzerland (SUPSI), ISEA, SMT Lab]
+    #emph[University of Applied Sciences and Arts of Southern Switzerland (SUPSI), ISEA, SMT Lab]
 
   ],
   [
@@ -194,14 +194,14 @@
 
     - Built a custom UAV from scratch employing the PX4\/Pixhawk autopilot
 
-    - Integrated software & hardware components (modular system) using ROS, and implemented onboard computer vision tasks
+    - Integrated software & hardware components using ROS, and implemented onboard computer vision tasks
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Adjunct Researcher and Lecturer]
+    #strong[Part-time Researcher and Adjunct Lecturer]
 
     #emph[Universidad Privada Boliviana (UPB)]
 
@@ -215,7 +215,7 @@
   main-column-second-row: [
     #summary[Research in embedded wireless IoT applications, Lecturer]
 
-    - Contributed to the Smart Street Lightning project (#link("https://www.researchgate.net/publication/334528922_SRESLi_SMART_RENEWABLE_ENERGY_STREET_LIGHTING_SYSTEM")[SRESLi])
+    - Contributed to the Smart Street Lighting project (#link("https://www.researchgate.net/publication/334528922_SRESLi_SMART_RENEWABLE_ENERGY_STREET_LIGHTING_SYSTEM")[SRESLi])
 
     - Courses Taught (2014-2019): Embedded Electronic Systems, Microprocessor Architecture & Technology, Electronics & Telecom. Project, Telecom. Electronics, Electronic Instrumentation
 
@@ -247,7 +247,7 @@
 
 #education-entry(
   [
-    #strong[University of Applied Arts and Science from Southern Switzerland (SUPSI)]
+    #strong[University of Applied Sciences and Arts of Southern Switzerland (SUPSI)]
 
     #emph[MSc.] #emph[in] #emph[Engineering: Embedded Systems & Microelectronics]
 
@@ -260,8 +260,6 @@
   ],
   main-column-second-row: [
     #summary[Thesis Title: #emph[Real-Time Human Footstep Recognition on Smart Anti-Static Floor]]
-
-    - Signal processing and classification using machine learning targeting resource constrained-hardware
 
   ],
 )
@@ -280,9 +278,7 @@
 
   ],
   main-column-second-row: [
-    #summary[Grade Project Title: #emph[VIRMS: A Vehicle Information and Road Monitoring System], #link("http://www.upb.edu/revista-investigacion-desarrollo/index.php/id/article/view/29")[paper]]
-
-    - Embedded systems, RTOS, data acquisition & processing, IoT, embedded GUI development
+    #summary[Grade Project Title: #emph[VIRMS: A Vehicle Information and Road Monitoring System], #link("https://www1.upb.edu/revista-investigacion-desarrollo/index.php/id/article/view/29")[paper]]
 
   ],
 )
@@ -311,7 +307,7 @@
 
 - Bouguerra, A., Montoya, D., Gomez-Villa, A., Mraidha, C., #strong[Arnez, F.] (2026, July). #emph[Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy]. In #strong[International Conference on Machine Learning (ICML)]. #link("https://openreview.net/pdf?id=Wvd80GPJ9F")[link]
 
-- Suri, K., & #strong[Arnez, F.] (2026, June). #emph[Digital Twins and World Models: A Systematic Taxonomic Disambiguation]. In International Conference on Advanced Information Systems Engineering (CAiSE) (pp. 61-66). #link("https://cea.hal.science/cea-05547494/document")[link]
+- Suri, K., & #strong[Arnez, F.] (2026, June). #emph[Digital Twins and World Models: A Systematic Taxonomic Disambiguation]. In Advanced Information Systems Engineering Workshops (CAiSE 2026, MIDas4CS), LNBIP vol. 586 (pp. 61-66). #link("https://cea.hal.science/cea-05547494/document")[link]
 
 - Hajji, E., Bouguerra, A., #strong[Arnez, F.] (2025, November). #emph[The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns]. In Proceedings of the AAAI Symposium Series (AAAI Fall Symposium - ATRACC), 7(1). #link("https://arxiv.org/abs/2511.10837")[link]
 
@@ -319,11 +315,11 @@
 
 - #strong[Arnez, F.], Vasquez, D. A. M., Radermacher, A., & Terrier, F. (2024, July). #emph[Latent Representation Entropy Density for Distribution Shift Detection]. In #strong[Conference on Uncertainty in Artificial Intelligence (UAI)]. #link("https://proceedings.mlr.press/v244/arnez24a.html")[link]
 
-- #strong[Arnez, F.], Espinoza, H., Radermacher, A., & Terrier, F. (2022, September). #emph[Towards Dependable Autonomous Systems Based on Bayesian Deep Learning Components] In 2022 18th European Dependable Computing Conference (EDCC) (pp. 65-72). IEEE. #link("https://arxiv.org/abs/2301.05297")[link]
+- #strong[Arnez, F.], Espinoza, H., Radermacher, A., & Terrier, F. (2022, September). #emph[Towards Dependable Autonomous Systems Based on Bayesian Deep Learning Components]. In 2022 18th European Dependable Computing Conference (EDCC) (pp. 65-72). IEEE. #link("https://arxiv.org/abs/2301.05297")[link]
 
-- #strong[Arnez, F.], Espinoza, H., Radermacher, A., & Terrier, F. #emph[Improving Robustness of Deep Neural Networks for Aerial Navigation by Incorporating Input Uncertainty] Proceedings of the Workshop on Artificial Intelligence Safety Engineering WAISE 2021, International Conference on Computer Safety, Reliability, and Security (pp. 219-225). Springer. #link("https://link.springer.com/chapter/10.1007/978-3-030-83906-2_17")[link]
+- #strong[Arnez, F.], Espinoza, H., Radermacher, A., & Terrier, F. (2021, September). #emph[Improving Robustness of Deep Neural Networks for Aerial Navigation by Incorporating Input Uncertainty]. Proceedings of the Workshop on Artificial Intelligence Safety Engineering WAISE 2021, International Conference on Computer Safety, Reliability, and Security (pp. 219-225). Springer. #link("https://link.springer.com/chapter/10.1007/978-3-030-83906-2_17")[link]
 
-- #strong[Arnez, F.], Espinoza, H., Radermacher, A., & Terrier, F. #emph[A Comparison of Uncertainty Estimation Approaches in Deep Learning Components for Autonomous Vehicle Applications.] Proceedings of the Workshop on Artificial Intelligence Safety 2020, vol 2640, ISSN:1673-0073. #link("http://ceur-ws.org/Vol-2640/paper_24.pdf")[link]
+- #strong[Arnez, F.], Espinoza, H., Radermacher, A., & Terrier, F. (2020). #emph[A Comparison of Uncertainty Estimation Approaches in Deep Learning Components for Autonomous Vehicle Applications.] Proceedings of the Workshop on Artificial Intelligence Safety 2020, vol 2640, ISSN: 1613-0073. #link("http://ceur-ws.org/Vol-2640/paper_24.pdf")[link]
 
 - Full list of publications in #link("https://scholar.google.com/citations?hl=en&user=faWEPTIAAAAJ&view_op=list_works&sortby=pubdate")[Google Scholar profile]
 
@@ -331,6 +327,6 @@
 
 - #strong[Ph.D. Thesis Supervision:] #emph[Deep Neural Network Uncertainty Estimation on Embedded Targets] (Aymen Bouguerra, 2024 - Present); #emph[Out-of-Distribution Detection with Vision Foundation Models and Post-hoc Methods] (starting Oct. 2026)
 
-- #strong[Reviewer in Conferences\/Workshops:] NeurIPS (2026), ICML (2026 -- Gold Reviewer), ICLR (2027, ongoing), BMVC (2026), CVPR (2025), AAAI (2026, 2025), UAI (2026, 2025, 2024), WACV (2025), IV (2025, 2022), AI-Safety workshop at IJCAI (2024), Releasing Robots in the Wild Workshop at ICRA (2022)
+- #strong[Reviewer in Conferences\/Workshops:] NeurIPS (2026), ICML (2026 -- Gold Reviewer), ICLR (2027, ongoing), BMVC (2026), CVPR (2025), AAAI (2026, 2025), UAI (2026, 2025, 2024), WACV (2025), IV (2025, 2022), AI-Safety workshop at IJCAI (2024), Releasing Robots into the Wild Workshop at ICRA (2022)
 
 - #strong[Workshop & Conference Organizing Committee Member:] Workshop on AI Safety and Security at IJCAI 2024, ICVES 2026 (ongoing)
